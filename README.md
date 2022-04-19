@@ -9,7 +9,7 @@
 
 
 demo地址：
-https://gitee.com/java_moon/spa-demo
+https://github.com/NightElfForce/moon-framework-demo
 
 请先下载demo查看功能
 
